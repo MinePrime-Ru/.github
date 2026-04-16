@@ -1,5 +1,5 @@
-## Чек-лист (Checklist)
+## Чек-лист
 
-- [ ] Я уже присоединился к [соглашению](https://github.com/MinePrime-Ru/mineprime-governance/blob/main/DEVELOPER_AGREEMENT.md) (I have joined the agreement).
-- [ ] Вклад является моим авторским и не нарушает чужих прав (I own this contribution).
-- [ ] Коммиты подписаны / Verified (Commits are signed).
+- [ ] Я ознакомился и согласен с [Соглашением участника (CLA)](https://github.com/MinePrime-Ru/.github/blob/main/CLA.md), включая безвозмездную передачу исключительных прав на мой вклад.
+- [ ] Вклад является моим авторским и не нарушает прав третьих лиц.
+- [ ] Коммиты подписаны (Verified).
