@@ -2,24 +2,21 @@
 
 Данный репозиторий и репозитории, созданные на его основе, предназначены для проприетарной разработки MinePrime.
 
-## Перед первым вкладом
+## Перед началом участия
 
-Перед тем как отправить код, документацию, ассеты, конфиги или иные материалы в MinePrime, участник обязан:
+Перед тем как начать вносить вклад (код, конфиги, ассеты) или приступить к обязанностям администратора/модератора в MinePrime, участник обязан:
 
-1. Прочитать [DEVELOPER_AGREEMENT.md](https://github.com/MinePrime-Ru/mineprime-governance/blob/main/DEVELOPER_AGREEMENT.md).
-2. Пройти процедуру присоединения (заполнить [Яндекс.Форму](https://forms.yandex.ru/u/YOUR_FORM_ID/)).
-3. Получить подтверждение от Оператора (приглашение в организацию).
+1. Прочитать [Соглашение об участии (Participant Agreement)](https://github.com/MinePrime-Ru/.github/blob/main/PARTICIPANT_AGREEMENT.md).
+2. Пройти процедуру онбординга (заполнить [Яндекс.Форму](https://forms.yandex.ru/u/YOUR_FORM_ID/)).
+3. Получить подтверждение от Оператора (приглашение в команду).
 
-Если этот шаг пропущен, вклад не должен отправляться и не будет принят.
+## Основы участия
 
-## Основы внесения вклада
+Любые действия в рамках проекта MinePrime (коммиты, модерирование, создание ассетов) подразумевают следующее:
 
-Открывая pull request после подтверждения присоединения, участник подтверждает следующее:
-
-- вклад регулируется [DEVELOPER_AGREEMENT.md](https://github.com/MinePrime-Ru/mineprime-governance/blob/main/DEVELOPER_AGREEMENT.md), и все исключительные права передаются Оператору в момент принятия;
-- участник имеет право передавать такие исключительные права в полном объеме на предоставляемые материалы;
-- в состав вклада не включены нераскрытые сторонние материалы, ассеты или ограничивающие лицензии;
-- все значимые внешние зависимости и их лицензии были раскрыты Оператору заранее.
+- деятельность регулируется [PARTICIPANT_AGREEMENT.md](https://github.com/MinePrime-Ru/.github/blob/main/PARTICIPANT_AGREEMENT.md), и все исключительные права на вклады передаются Оператору;
+- участник имеет право передавать такие исключительные права в полном объеме;
+- участник обязуется соблюдать Кодекс поведения (Code of Conduct) и правила для Администрации.
 
 ## Требования к коммитам и Pull Request
 
@@ -45,24 +42,21 @@
 
 This repository and repositories created from this template are intended for proprietary MinePrime development.
 
-## Before the first contribution
+## Before Participation
 
-Before any code, documentation, assets, configs, or other materials are submitted to MinePrime, the contributor must:
+Before submitting code, documentation, assets, configs, or starting as an administrator/moderator at MinePrime, the participant must:
 
-1. Read [DEVELOPER_AGREEMENT.md](https://github.com/MinePrime-Ru/mineprime-governance/blob/main/DEVELOPER_AGREEMENT.md).
-2. Complete accession (fill out the [Yandex.Form](https://forms.yandex.ru/u/YOUR_FORM_ID/)).
-3. Receive confirmation from the Operator (invite to the organization).
+1. Read the [Project Participation Agreement](https://github.com/MinePrime-Ru/.github/blob/main/PARTICIPANT_AGREEMENT.md).
+2. Complete onboarding (fill out the [Yandex.Form](https://forms.yandex.ru/u/YOUR_FORM_ID/)).
+3. Receive confirmation from the Operator (invite to the team).
 
-If this step is skipped, the contribution should not be submitted and will not be accepted.
+## Participation Baseline
 
-## Contribution baseline
+Any action within the MinePrime project (commits, moderation, asset creation) implies the following:
 
-By opening a pull request after valid accession, the contributor confirms that:
-
-- the contribution is governed by [DEVELOPER_AGREEMENT.md](https://github.com/MinePrime-Ru/mineprime-governance/blob/main/DEVELOPER_AGREEMENT.md), and all exclusive rights are transferred to the Operator upon acceptance;
-- the contributor has the right to transfer such exclusive rights in full for the submitted materials;
-- no undisclosed third-party code, assets, or restrictive licenses are included;
-- all significant external dependencies and licenses have been disclosed to the Operator in advance.
+- the activity is governed by [PARTICIPANT_AGREEMENT.md](https://github.com/MinePrime-Ru/.github/blob/main/PARTICIPANT_AGREEMENT.md), and all exclusive rights to contributions are transferred to the Operator;
+- the participant has the right to transfer such exclusive rights in full;
+- the participant undertakes to comply with the Code of Conduct and rules for Administration.
 
 ## Commit and pull request requirements
 
