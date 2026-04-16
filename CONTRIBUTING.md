@@ -7,8 +7,8 @@
 Перед тем как отправить код, документацию, ассеты, конфиги или иные материалы в MinePrime, участник обязан:
 
 1. Прочитать [DEVELOPER_AGREEMENT.md](https://github.com/MinePrime-Ru/mineprime-governance/blob/main/DEVELOPER_AGREEMENT.md).
-2. Пройти процедуру присоединения (создать файл акцепта и отправить в репозиторий [mineprime-acceptances](https://github.com/MinePrime-Ru/mineprime-acceptances)).
-3. Получить подтверждение от Оператора (merge вашего PR).
+2. Пройти процедуру присоединения (заполнить [Яндекс.Форму](https://forms.yandex.ru/u/YOUR_FORM_ID/)).
+3. Получить подтверждение от Оператора (приглашение в организацию).
 
 Если этот шаг пропущен, вклад не должен отправляться и не будет принят.
 
@@ -50,8 +50,8 @@ This repository and repositories created from this template are intended for pro
 Before any code, documentation, assets, configs, or other materials are submitted to MinePrime, the contributor must:
 
 1. Read [DEVELOPER_AGREEMENT.md](https://github.com/MinePrime-Ru/mineprime-governance/blob/main/DEVELOPER_AGREEMENT.md).
-2. Complete accession (create an accession file and submit it to the [mineprime-acceptances](https://github.com/MinePrime-Ru/mineprime-acceptances) repository).
-3. Receive confirmation from the Operator (merge of your PR).
+2. Complete accession (fill out the [Yandex.Form](https://forms.yandex.ru/u/YOUR_FORM_ID/)).
+3. Receive confirmation from the Operator (invite to the organization).
 
 If this step is skipped, the contribution should not be submitted and will not be accepted.
 
