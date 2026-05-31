@@ -1,7 +1,9 @@
-Все права защищены.
-Владение кодом принадлежит организации MinePrime (Шер Даниил Андреевич aka AveCard1nal).
+© 2026 Daniil Sher (aveCard1nal) / MinePrime. All rights reserved.
 
----
+This software is provided "as-is", without any express or implied warranty.
+In no event shall the authors be held liable for any damages arising from the use of this software.
 
-All rights reserved.
-Code ownership belongs to MinePrime organization (Daniil Sher aka AveCard1nal).
+Redistribution and use in source and binary forms, with or without modification,
+are strictly prohibited without prior written permission from the copyright holders.
+
+Website: https://mineprime.ru
